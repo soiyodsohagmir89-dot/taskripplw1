@@ -1,0 +1,5 @@
+{
+  "name": "TaskRipple",
+  "description": "A task-based earning platform with a 5-level referral system, user wallet, and admin dashboard. Simulates a full-stack environment with local storage.",
+  "requestFramePermissions": []
+}
